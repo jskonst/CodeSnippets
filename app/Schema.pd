@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel datamodelDbId="null">
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="141648386305704" entityLocationX="286" entityLocationY="37" entityWidth="150" tableName="studentGroup"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="141648326100590" entityLocationX="85" entityLocationY="35" entityWidth="150" tableName="course"/>
+</datamodel>
